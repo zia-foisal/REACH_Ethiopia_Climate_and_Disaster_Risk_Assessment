@@ -6,6 +6,4 @@ The methodology and code were adapted from the [Risk Data Library Standard](http
 
 The REACH Ethiopia project leverages these tools to analyze climate and disaster risk data, helping to identify vulnerable areas and populations. The insights gained from this assessment are crucial for informing policy decisions and enhancing the resilience of communities in Ethiopia.
 
-## Citation:
-Amadio M. (GFDRR) - CCDR tools data and methodology, 2024. Available at [GFDRR CCDR Tools](https://github.com/GFDRR/CCDR-tools)
-
+Please refer to online [**DOCUMENTATION**](https://gfdrr.github.io/CCDR-tools/)
